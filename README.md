@@ -1,8 +1,24 @@
-# React + Vite
+# PassOP - Local Storage 🔒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PassOP is a simple password management tool built with **React**, **Node.js**, and **Tailwind CSS**, designed to securely store passwords locally on the client side for quick and easy access.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, view, and delete passwords.
+- Secure local storage of passwords on the client side.
+- Clean and responsive UI using Tailwind CSS.
+- Fast and lightweight, no server required.
+
+## Technologies Used
+
+- **React** - Frontend framework for building user interfaces.
+- **Node.js** - For local development environment setup.
+- **Tailwind CSS** - For styling and responsive design.
+- **LocalStorage** - To securely store passwords in the browser.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YourUsername/PassOP.git
