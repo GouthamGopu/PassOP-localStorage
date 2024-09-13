@@ -21,4 +21,4 @@ PassOP is a simple password management tool built with **React**, **Node.js**, a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/PassOP.git
+   git clone https://github.com/GouthamGopu/PassOP-localStorage.git
